@@ -34,6 +34,10 @@ Debes tener la versión 23 de Java o posterior.
   
  - Una vez que se haya clonado el proyecto.
 
+3) Abre la carpeta src, luego ui, ejecuta el Main. 
+    o Abre el proyecto en tu IDE que más te guste.
+
+4) Ejecutar la clase Main.java.
 
   🧱 Estructura general del proyecto
   
@@ -52,7 +56,4 @@ src/
             └── Main.java 
 
 
-3) Abre la carpeta src, luego ui, ejecuta el Main. 
-    o Abre el proyecto en tu IDE que más te guste.
 
-4) Ejecutar la clase Main.java.
