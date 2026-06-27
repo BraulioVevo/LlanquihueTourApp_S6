@@ -2,17 +2,17 @@
 
 
 
-\## 👤 Autor del proyecto
+## 👤 Autor del proyecto
 
-\* Nombre completo: Braulio Meriño Valdivia
+* Nombre completo: Braulio Meriño Valdivia
 
-\* Carrera: Desarrollo de Aplicaciones
+* Carrera: Desarrollo de Aplicaciones
 
-\* Sede: Campus Online
+* Sede: Campus Online
 
 
 
-\---
+---
 
 📘 Descripción general del sistema
 
@@ -20,7 +20,7 @@ Este proyecto corresponde a la Actividad Formativa 2 de la asignatura \*Desarrol
 Este trabajo consiste en aprender y aplicar la Herencia y el Polimorfismo.
 Y siempre intentar aplicar las buenas practicas de la Programación Orientada a Objetos.
 
-\---
+---
 
 Debes tener la versión 23 de Java o posterior.
  
