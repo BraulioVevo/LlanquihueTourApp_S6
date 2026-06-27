@@ -1,4 +1,4 @@
-\# 🧠 Evaluación Sumativa 2 – Llanquihue Tour App V1
+# 🧠 Evaluación Sumativa 2 – Llanquihue Tour App V1
 
 
 
