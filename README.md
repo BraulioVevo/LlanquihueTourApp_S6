@@ -39,6 +39,8 @@ Debes tener la versión 23 de Java o posterior.
 
 4) Ejecutar la clase Main.java.
 
+---
+
   🧱 Estructura general del proyecto
   
 ```text
